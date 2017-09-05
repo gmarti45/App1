@@ -1,0 +1,47 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1{
+  text-align: center;
+  color: darkblue;
+  font: 30px "Impact";
+  font-style: italic;
+  font-weight: bold;
+  font-stretch: ultra-expanded;
+}
+
+h2{
+  text-align: center;
+  color: darkblue;
+}
+
+.container{
+  margin: auto;
+  background:lightgray;
+  padding: 16px;
+  width: 50%;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  box-sizing: border-box;
+  font: 15px "Arial";
+}
+
+button {
+  background-color: darkblue;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  width: 100%;
+  font: 15px "Arial";
+}
