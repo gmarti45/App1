@@ -3,6 +3,11 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+errorMessage{
+    color: skyblue;
+    text-align: center;
+    font: 50px "Chalkduster";
+}
 h1{
   text-align: center;
   color: white;

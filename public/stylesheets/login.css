@@ -4,12 +4,12 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: skyblue;
 }
 
 h1{
   text-align: center;
-  color: darkblue;
+  color: black;
   font: 30px "Impact";
   font-style: italic;
   font-weight: bold;
@@ -18,12 +18,12 @@ h1{
 
 h2{
   text-align: center;
-  color: darkblue;
+  color: black;
 }
 
 .container{
   margin: auto;
-  background:lightgray;
+  background:skyblue;
   padding: 16px;
   width: 50%;
 }
@@ -38,7 +38,7 @@ input[type=text], input[type=password] {
 }
 
 button {
-  background-color: darkblue;
+  background-color: black;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
